@@ -23,7 +23,7 @@ Source: Kaggle
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/house-price-prediction.git
+git clone https://github.com/venkateshwarlu195/house-price-prediction.git
 cd house-price-prediction
 ```
 2. Install dependencies
